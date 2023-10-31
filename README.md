@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ajaypra88777142" target="blank"><img src="https://img.shields.io/twitter/follow/ajaypra88777142?logo=twitter&style=for-the-badge" alt="ajaypra88777142" /></a> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AJAY0993)](https://git.io/streak-stats)
+
 - 👨‍💻 All of my projects are available at [https://ajay-portfolio-site.netlify.app/](https://ajay-portfolio-site.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,react**
