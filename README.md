@@ -9,7 +9,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AJAY0993" alt="GitHub Streak" /></a>
 
-- 👨‍💻 All of my projects are available at [https://ajay-portfolio-site.netlify.app/](https://ajay-portfolio-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ajays-projects-7c4c3847.vercel.app](https://portfolio-ajays-projects-7c4c3847.vercel.app)
 
 - 💬 Ask me about **HTML,CSS,react**
 
